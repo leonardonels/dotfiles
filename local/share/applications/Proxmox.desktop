@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Proxmox
+Comment=Proxmox
+Exec=omarchy-launch-webapp https://proxmox.leonardonels.com
+Terminal=false
+Type=Application
+Icon=/home/leo/.local/share/applications/icons/Proxmox.png
+StartupNotify=true

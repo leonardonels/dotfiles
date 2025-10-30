@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ollama
+Comment=ollama
+Exec=omarchy-launch-webapp https://openai.leonardonels.com
+Terminal=false
+Type=Application
+Icon=/home/leo/.local/share/applications/icons/ollama.png
+StartupNotify=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Glance
+Comment=Glance
+Exec=omarchy-launch-webapp https://glance.leonardonels.com/home
+Terminal=false
+Type=Application
+Icon=/home/leo/.local/share/applications/icons/glance.png
+StartupNotify=true

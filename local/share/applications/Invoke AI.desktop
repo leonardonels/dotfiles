@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Invoke AI
+Comment=Invoke AI
+Exec=omarchy-launch-webapp https://invoke-ai.leonardonels.com
+Terminal=false
+Type=Application
+Icon=/home/leo/.local/share/applications/icons/Invoke AI.png
+StartupNotify=true
